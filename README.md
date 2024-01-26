@@ -1,6 +1,6 @@
 # Code for Siemen Burssens' personal webpage
 
-Contents: Siemen Burssens
+Content: Siemen Burssens
 
 Cover design: Ffion Jones
 
