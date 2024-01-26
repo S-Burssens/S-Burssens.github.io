@@ -1,0 +1,19 @@
+<h2>Profile</h2>
+
+<p>Professionally, I'm interested in the extraction of knowledge from data sets and the delivery of insights for stakeholders of varied backgrounds or to inform policy design. With my experience as a researcher and a data scientist I know how to work efficiently and autonomously in order to meet deadlines and complete project goals in a timely manner. As a result, I have the ability to learn new concepts and methods quickly, and possess strong interpersonal and presentation skills.
+							
+<h4> Key skills </h4>								
+Below are listed some of my key skills. You can find my CV using this <a href="images/CV_SB_short.pdf" target="_blank">link</a></p> <ul class="feature-icons">
+<li class="icon solid fa-chart-bar">Data analysis & visualisation</li>
+<li class="icon solid fa-chart-line">Statistical modelling and inference</li>
+<li class="icon solid fa-code">Software development in Python</li>
+<li class="icon solid fa-edit">Technical and professional writing</li>
+<li class="icon solid fa-bolt">Science communication and outreach</li>
+<li class="icon solid fa-chalkboard-teacher">Project management</li></ul>
+
+<h4> Education</h4>
+Prior to my current position as a Research Fellow at the University of Leeds, I obtained my PhD in Astronomy and Astrophysics at the <a href="https://fys.kuleuven.be/ster" target="_blank">Institute of Astronomy</a> at the KU Leuven University in Belgium (2022), under the supervision of <a href="https://dbowman234.github.io/" target="_blank">Dr. Dominic Bowman </a> and <a href="https://fys.kuleuven.be/ster/staff/conny-aerts" target="_blank">Prof. Dr. Conny Aerts</a>, graduating successfully in July 2022 with a thesis titled <a href="https://fys.kuleuven.be/ster/pub/phd-thesis-siemen-burssens/phd-thesis-siemen-burssens" target="_blank">"Massive star asteroseismology with K2 and TESS"</a>. The last chapter of my thesis was later published in <a href="https://doi.org/10.1038/s41550-023-01978-y" target="_blank">Nature Astronomy</a>. I also have an MSc in Astronomy and Astrophysics (<em>Cum Laude</em>, 2017) and in Medical Radiation Physics (<em>Cum Laude</em>, 2018), both obtained at the KU Leuven University.
+<br><br>
+<h4> Personal interests</h4>
+Aside from research, I enjoy learning new languages. I'm fluent in English, Dutch, and French, and studied Italian and German in school. Lately, I've also been trying to break through in Spanish. I'm an avid reader of both fiction and non-fiction (currently reading <em>"The Dune Trilogy"</em> by Frank Herbert and <em>"SPQR"</em> by Mary Beard). As a resident of the city of Sheffield (UK) and nature enthusiast you will also find me on a hike in the idyllic Peak District National Park most weekends. 
+								

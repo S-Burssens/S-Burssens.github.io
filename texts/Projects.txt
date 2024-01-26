@@ -1,0 +1,61 @@
+<h2>Projects</h2>
+
+<h4> As a Research Fellow in Data Science (University of Leeds, 2023-) </h4>
+My current research project focuses on the increasing of awareness and engagement among citizens regarding <a href="https://en.wikipedia.org/wiki/Disinfection_by-product" target="_blank">disinfection by-products</a> (or DBPs) and water quality in general. DBPs form a large family of chemical contaminants that are formed as a by-product during the treatment of drinking water for safe consumption <a href="https://doi.org/10.1021/bk-2015-1190.ch011" target="_blank">[1]</a> <a href="https://doi.org/10.1080/10643389.2022.2043101" target="_blank">[2]</a>. While the carcinogenic and genotoxic properties of these substances have been studied for a few decades <a href="https://doi.org/10.5812/ijcm.88930" target="_blank">[3]</a>, there is little awareness amongst both policy makers and drinking water end-users to limit their formation and proliferation. <br><br>
+My research objectives are three-fold: 
+<ol>
+  <li>Establish a list of actions that citizens <em> can </em> take to protect themselves and others from DBPs,</li>
+  <li>Develop an engagement tool that increases awareness of DBPs and encourages citizens to take action,</li>
+  <li>Determine what actions are easily adopted and may lead to actual behavioural changes by deploying the engagement tool as part of a field study.</li>
+</ol>
+
+
+<hr>
+
+<h4> As a doctoral researcher (KU Leuven, 2018 - 2022)</h4>
+<p>The research I conducted as a doctoral researcher focused on the calibration of stellar structure and evolution models using a technique known as <a href="https://en.wikipedia.org/wiki/Asteroseismology" target="_blank">asteroseismology</a>. To deliver these calibrations I used a data-driven approach including data sets from the NASA TESS and K2 space missions, ground-based spectrographs, and the ESA Gaia mission.</p>
+
+<div class="features">
+<article>
+<h5><em>Statistical data modelling of neutron star progenitors (2022)</em> <br> </h5>
+<a href="#" class="image"><img src="images/HD192_project.png" alt="" align="left"/></a>
+
+<div class="inner">
+<em>Diagram showing  series data of the brightness of a pulsating high-mass star. The variations are mainly caused by standing waves that propagate throughout the stellar interior. Studying these variations therefore allows us to probe the interior physics of stars, a technique known as 'asteroseismology'.</em>
+</div>
+
+<p>
+<br>
+Here, I developed up a Python-based statistical modelling framework to derive physical properties of neutron star progenitors. 
+This included assembling different data sets from astronomy database systems, cleaning them for analysis, and extracting data features from the processed data. I also performed multiphysics simulations of stellar structure and evolution on the <a href="https://www.vscentrum.be" target="_blank">Flemish Supercomputer Centre</a> using the codes <a href="https://mesa.sourceforge.net" target="_blank">MESA</a> and <a href="https://gyre.readthedocs.io/en/stable/" target="_blank">GYRE</a>. Finally, the framework includes statistical inference methods in order to deliver key parameters and their confidence intervals from the comparison between the processed data and the multiphysics simulations.
+
+<br> The results of this research were published as a research article in the peer-reviewed scientific journal <em> Nature Astronomy</em> <a href="https://doi.org/10.1038/s41550-023-01978-y" target="_blank">  (doi:10.1038/s41550-023-01978-y) </a>.
+</p>
+</article>
+
+<article>
+<h5>
+<em> First scientific results of the novel TESS space mission telescope (2020)</em>
+</h5>
+<a href="#" class="image"><img src="images/TESS_project.png" alt="" align="right"/></a>
+<div class="inner">
+<em>Hertzsprung-Russel diagrams <a href="#footnote1">[1]</a> comparing a selection of variable stars observed with the TESS space mission with theoretical parameter ranges where stars are expected to be variable. Different panels show different input physics. By comparing observed variable stars with theoretical expectations we can improve stellar structure and evolution models.</em> 
+</div>
+
+<p><br>In this project I set up a Python-based data processing framework to assemble data for 98 stars from different sources, including data sets from the recently launched <a href="https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite" target="_blank">TESS space mission telescope</a>, and the HERMES spectrograph, mounted on the <a href="http://www.mercator.iac.es" target="_blank">Mercator telescope</a> on the island of La Palma, Spain. By comparing certain data features with multiphysics simulations of stellar variability computed on the <a href="https://www.vscentrum.be" target="_blank">Flemish Supercomputer Centre</a>, I delivered new evidence-backed insights into the evolution of stars eight times more massive than our Sun. 
+<br>
+The results of this research were published as a research article in the peer-reviewed scientific journal <em> Astronomy and Astrophysics</em> <a href="https://doi.org/10.1051/0004-6361/202037700" target="_blank">  (doi:10.1051/0004-6361/202037700) </a>.</p> <p id="#footnote1">[1] An illustrative diagram used by astronomers to study stars as a function of mass and evolution.</p>
+</article>
+<article>
+<h5> <em>Analysis of Kepler/K2 space mission data in a search for variable stars (2019)</em></h5> 
+<a href="#" class="image"><img src="images/K2_project.png" alt="" /></a>
+<div class="inner">
+<em> Colour-magnitude diagram <a href="#footnote1">[1]</a> confirming eight newly discovered high-mass pulsating stars starting from a sample of 130 high-mass stars observed with the Kepler/K2 space mission.</em>
+</div>
+<p>
+<br>
+In this project I developed a data extraction and processing pipeline in Python for time series data of hundreds of stars obtained with the <a href="https://www.nasa.gov/mission_pages/kepler/main/index.html" target="_blank">Kepler/K2 space telescope</a>. This was followed by an exploratory analysis of the data sets in order to search for patterns linked to stellar properties. Suitable data sets were subject to an in-depth analysis, in which I combined the findings with results from the <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia" target="_blank">ESA Gaia space mission</a>, which provides parallaxes and stellar distances for millions of stars.<br> This research was published research article in the peer-reviewed scientific journal <em>Monthly Notices of the Royal Astronomical Society</em> <a href="https://doi.org/10.1093/mnras/stz2165" target="_blank"> (doi:10.1093/mnras/stz2165) </a>.
+</p>
+											
+<p id="#footnote1">[1] A popular diagram used by astronomers to visualise the approximate mass and evolutionary ranges of stars. This diagram has a similar function to the Hertzsprung-Russel diagram  (see <a href="#footnote1">[1]</a>) as it based purely on observations, but is more difficult to interpret in a physical sense</p>
+</article>

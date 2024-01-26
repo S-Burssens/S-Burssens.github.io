@@ -1,0 +1,7 @@
+<h2>About me</h2>
+
+Hello there! My name is Siemen Burssens, and I'm a Research Fellow in Data Science at the <a href="https://www.leeds.ac.uk/" target="_blank">University of Leeds</a>. My main role is to work on the <a href="https://h2oforall.eu/" target="_blank">H2OforAll</a> EU HORIZON project (Grant Agreement <a href="https://cordis.europa.eu/project/id/101081963" target="_blank">GA101081953</a>), which aims to protect and treat drinking water from <a href="https://en.wikipedia.org/wiki/Disinfection_by-product" target="_blank">disinfection by-products</a> (or DBPs). As the co-leader on one of the work package tasks, my role includes using data-driven evidence to increase public awareness about disinfection by-products and engage citizens to take actions that protect water quality now and in the future. 
+<br>
+
+
+

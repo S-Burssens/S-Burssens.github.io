@@ -1,0 +1,17 @@
+<h2>Links</h2>
+<p>
+<a href="https://eps.leeds.ac.uk/computing/staff/13315/dr-siemen-burssens" target="_blank">Personal webpage at the University of Leeds</a>
+<br>
+<a href="https://scholar.google.com/citations?hl=en&user=lvte9UoAAAAJ" target="_blank"> Google Scholar</a>
+<br>
+<a href="https://orcid.org/0000-0002-1593-0863" target="_blank"> ORCID</a>
+<br>
+<a href="https://ui.adsabs.harvard.edu/public-libraries/ku391jksTPinUyEIhuckiw" target="_blank"> ADS Library</a>
+<br>
+<a href="https://www.linkedin.com/in/siemen-burssens-6b814215b/" target="_blank"> LinkedIn</a>
+<br>
+</p> 
+<hr>
+<h2>Contact details</h2>
+<p>E-mail: <a href="mailto:siemen.burssens@gmail.com"> siemen.burssens@gmail.com.</a> <br>
+Or send me a message on LinkedIn </p>
